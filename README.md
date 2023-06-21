@@ -1,6 +1,6 @@
 # SearchEngine-DFS
 
-This is a SearchEngine project with DFS based web crawling.The project allows users to search for top 30 results according to their query and displays their search history.
+This is a SearchEngine Webapp project with DFS based web crawling.The project allows users to search for top 30 results according to their query and displays their search history.
 The two main functions of the project are to perform a search and to get user search history.
 
 TECH STACK
