@@ -21,6 +21,6 @@ IDE- IntelliJ Idea
 
 Project is Divided into two parts
 1. SearchEngine- This takes users query and uses ranking algorithms to find 30 most relevant results from the database.
-2. WebCrawler- Crawler is used to retrieve data from web pages.The crawler parses HTML pages and converts objects to Java objects. The crawler requests and retrieves pages from the internet, crawling through them.
+2. WebCrawler- Crawler is used to retrieve data from web pages.The crawler parses HTML pages and converts objects to Java objects.
    The retrieved data is provided to the indexer. The indexer saves the data to the database.
    Crawler bot uses DFS algorithm to navigate through the webpages.
